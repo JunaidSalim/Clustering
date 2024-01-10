@@ -1,5 +1,5 @@
 # Clustering_Cpp
- This program implemented in C++ extracts clusters from graphs based on thresold density
+ This program implemented in C++ extracts clusters from graph based on threshold density
 
 
 **Approach:**
