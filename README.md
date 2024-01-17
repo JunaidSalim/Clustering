@@ -1,5 +1,8 @@
+This was our DSA Semester Project
+
 # Clustering_Cpp
- This program implemented in C++ extracts clusters from graph based on threshold density
+This program implemented in C++ extracts clusters from graph based on threshold density
+
 
 
 **Approach:**
